@@ -3,8 +3,6 @@ import Cogs.bettertools
 
 
 def main():
-    print("hello world")
-    print("some upgrades...")
     Cogs.music.play("lalalala")
     importantinfo = Cogs.bettertools.f(5, 6)
     print(importantinfo)
